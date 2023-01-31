@@ -1,8 +1,3 @@
-//Jim Trieb
-//z1912658
-//csci 480 PE1
-//assignment 4
-//4-4-22
 
 #include <iostream>
 #include <pthread.h>
