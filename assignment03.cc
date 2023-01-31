@@ -1,12 +1,3 @@
-/*
-CSCI 340, Assignment03, Fall 2020
-Jim Trieb
-z1912658
-0PE1
-Mohith Koppisetti, Palak Jalota
-9-21-2020
-Find all prime numbers from 2 to user input
-*/
 
 #include <iostream>
 #include <set>
