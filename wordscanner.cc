@@ -1,12 +1,4 @@
-/*
-CSCI 340, Assignment 4, Fall 2020
-Jim Trieb
-z1912658
-PE1
-Mohith Koppisetti,Palak Jalota
-10-5-2020
-Recieve a string of words and rid it of punctuation
-*/
+
 #include <map>
 #include <algorithm>
 #include <iterator>
