@@ -1,8 +1,3 @@
-//Jim Trieb
-//z1912658
-//csci 480 PE1
-//Assignment 1
-//2-7-22
 
 #include <iostream>
 #include <string>
