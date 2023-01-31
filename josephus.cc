@@ -1,12 +1,3 @@
-/*
-CSCI 340, assignment 6, fall 2020
-Jim Trieb
-z1912658
-PE1
-Palak Jalota, Mohith Koppisetti
-10-19-2020
-move through list of strings to eliminate the name that corresponds to users choice
-*/
 
 #include<list>
 #include<string>
