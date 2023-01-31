@@ -1,12 +1,3 @@
-/*
-CSCI 340, assignment 7, fall 2020
-Jim Trieb
-z1912658
-PE1
-Mohith Koppisetti, Palak Jalota
-10-26-2020
-Initializes, and traverses a binary tree. To create member functions
-*/
 
 #ifndef H_BINARYTREE
 #define H_BINARYTREE
