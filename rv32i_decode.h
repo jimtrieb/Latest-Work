@@ -1,13 +1,3 @@
-//***************************************************************************
-//
-//  Jim Trieb
-//  z1912658
-//  csci463 PE1
-//
-//  I certify that this is my own work and where appropriate an extension 
-//  of the starter code provided for the assignment.
-//
-//***************************************************************************
 
 #ifndef __RV32I_DECODE__
 #define __RV32I_DECODE__
