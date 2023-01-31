@@ -1,12 +1,3 @@
-/*
-csci 340, assignment 9,fall 2020
-Jim Trieb
-z1912658
-0PE1
-Palak Jalota, Mohith Koppisetti
-11-23-20
-Impliment properties of heaps
-*/
 
 #include <assert.h>
 #include <algorithm>
