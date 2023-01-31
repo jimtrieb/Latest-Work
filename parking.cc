@@ -1,12 +1,4 @@
-/*
-CSCI 340, Assignment 5, Fall 2020
-Jim Trieb
-z1912658
-PE1
-Mohith Koppisetti, Palak Jalota
-10-12-2020
-Record when cars leave and exit a parking garage
-*/
+
 #include<iostream>
 #include<stack>
 #include<deque>
